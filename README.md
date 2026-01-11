@@ -11,7 +11,7 @@ Dự án ứng dụng mua sắm thú cưng, bao gồm App Mobile và Server Back
 
 ### 1. Chuẩn bị
 Clone dự án về máy:
-git clone https://github.com/Tên-Nick-Của-Bạn/PetShop-Fullstack.git
+git clone https://github.com/Snoww-dev/PetShop-Fullstack
 
 ### 2. Chạy Backend (Server)
 cd Backend
